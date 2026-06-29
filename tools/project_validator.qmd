@@ -1,0 +1,23 @@
+---
+title: "Check repository compliance against psych-ds-ish standard"
+format:
+  html:
+    toc: true
+    code-fold: true
+execute:
+  warning: false
+  message: false
+---
+
+```{r}
+
+library(psychdsish)
+library(knitr)
+library(kableExtra)
+
+results <- validator("../")
+
+results |>
+  knitr::kable() |>
+  kableExtra::kable_classic(full_width = FALSE)
+```
