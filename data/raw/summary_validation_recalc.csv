@@ -1,0 +1,7 @@
+analysis;dat_01_near_zero_cell;dat_02_structural_zero_cell;dat_03_unbalanced_48_2;dat_04_heteroscedastic;dat_05_zero_variance_both;dat_07_tiny_n8_yates;dat_09_duplicated_ids;dat_10_near_perfect_assoc
+graphpad_prism_fischer_exact_two_sided;0.610508033;8.99294E-06;0.155102041;1.05929E-05;1.6E-14;1;0.074247202;2.21448E-05
+graphpad_prism_yates_continuity_correction_two_sided;0.661218842;3.29791E-05;0.302448265;2.92061E-05;1.1352E-11;1;0.104419006;4.52268E-05
+graphpad_prism_chi_square_two_sided;0.337088151;6.30028E-06;0.077099872;7.53065E-06;1.537E-12;0.465208818;0.054291828;1.24034E-05
+graphpad_prism_fischer_exact_one_sided;0.335866261;8.99294E-06;0.155102041;5.29643E-06;8E-15;0.5;0.050489787;1.10724E-05
+graphpad_prism_yates_continuity_correction_one_sided;0.330609421;1.64895E-05;0.151224132;1.4603E-05;5.676E-12;0.5;0.052209503;2.26134E-05
+graphpad_prism_chi_square_one_sided;0.168544076;3.15014E-06;0.038549936;3.76533E-06;7.69E-13;0.232604409;0.027145914;6.20169E-06
